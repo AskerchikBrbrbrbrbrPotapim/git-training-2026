@@ -1,2 +1,4 @@
-# git-training-2026
-Super mega crutoe opisanie
+# Система контроля версий Git и Github
+Имя: Аскер
+Цель: Хорошая система организации данных для больших проектов с множеством версий
+Список: git add, git push, git commit, git init, git branch
